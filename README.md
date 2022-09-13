@@ -7,8 +7,7 @@
 👾 Enjoys learning : currently I'm learning React & Next.js | And debugs for fun!
 
 
-https://github-readme-stats.vercel.app/api?username=yuanliuddd &theme=great-gatsby
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 - ⚡ Fun fact: I'm a Junior so go easy on me and be nice . 
 
