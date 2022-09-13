@@ -1,16 +1,14 @@
-### Hi there 👋
+### Bonjour everyone, I'm Yuan ! 👋
 
-<!--
-**yuanliuddd/yuanliuddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m a Front-end Developer based in Paris.
+ 
+❤️‍🔥 Passionate about Web Tech skills and Technology Products
+   
+👾 Enjoys learning : currently I'm learning React & Next.js | And debugs for fun!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://github-readme-stats.vercel.app/api?username=yuanliuddd &theme=great-gatsby
+
+
+- ⚡ Fun fact: I'm a Junior so go easy on me and be nice . 
+
