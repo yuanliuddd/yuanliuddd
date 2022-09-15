@@ -17,11 +17,13 @@
   <p> 🥰 Passionate about Web Tech skills and Technology Products</p> 
   <p> 👾 Enjoys learning : currently I'm learning React & Next.js | And debugs for fun!</p>
   <p> ⚡ Fun fact: I'm a Junior so pls be nice :) </p>
+  <p> How to reach me :
+    <a href="www.linkedin.com/in/yuanliu0120">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="YuanLiu-LinkedIn"/>
+  </a></p>
 </div>
 
- <div id='main' align='center'>
  ![Yuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuanliuddd&show_icons=true&theme=great-gatsby)
-</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
