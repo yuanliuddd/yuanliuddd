@@ -3,16 +3,16 @@
   <h1>Bonjour everyone, I'm Yuan ! 👋</h1>
 </div>
 
-<div id='main' align='center'>
+<div id='main' >
   
   <p> 🌱 I’m a Front-end Developer based in Paris.</p> 
   <p> 🥰 Passionate about Web Tech skills and Technology Products</p> 
   <p> 👾 Enjoys learning : currently I'm learning React & Next.js | And debugs for fun!</p>
   <p> ⚡ Fun fact: I'm a Junior so pls be nice :) </p>
-  :mailbox:How to reach me: 
-  <section align="center">
-  <a href="www.linkedin.com/in/yuanliu0120">LinkedIn-YuanLiu</a>
-  </section>
+  :mailbox: How to reach me: yuanliu0120@gmail.com
+  
+ 
+
 </div>
 
 ---
