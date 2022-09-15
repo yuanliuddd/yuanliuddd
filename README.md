@@ -10,7 +10,7 @@
   <p> 🥰 Passionate about Web Tech skills and Technology Products</p> 
   <p> 👾 Enjoys learning : currently I'm learning React & Next.js | And debugs for fun!</p>
   <p> ⚡ Fun fact: I'm a Junior so pls be nice :) </p>
-  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/yuanliu0120)
+  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn--YuanLIU-blue)](www.linkedin.com/in/yuanliu0120)
   
 </div>
 ----
