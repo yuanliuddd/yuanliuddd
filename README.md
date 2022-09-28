@@ -7,7 +7,7 @@
   
   <p> 🌱 I’m a Full Stack Developer based in Paris.</p> 
   <p> 🥰 Passionate about Web Tech skills and Technology Products</p> 
-  <p> 👾 Enjoys learning : currently I'm learning React & Next.js | And debugs for fun!</p>
+  <p> 👾 Enjoys learning : currently I'm learning Next.js / Vue| And debugs for fun!</p>
   <p> ⚡ Fun fact: I'm a Junior so pls be nice :) </p>
   :mailbox: How to reach me: yuanliu0120@gmail.com
   
