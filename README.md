@@ -1,34 +1,33 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" width="150"/>
-  <h1>Bonjour everyone, I'm Yuan ! 👋</h1>
+  <h1> Hey there , I'm Yuan ! 👋</h1>
 </div>
 
 <div id='main' >
   
   <p> 🌱 I’m a Full Stack Developer based in Paris.</p> 
   <p> 🥰 Passionate about Web Tech skills and Technology Products</p> 
-  <p> 👾 Enjoys learning : currently I'm learning Next.js | And debugs for fun!</p>
-  :mailbox: How to reach me: yuanliu0120@gmail.com
-  
- 
+  <p> 👾 Enjoys learning : currently I'm learning Next.js | And debugs for fun! </p>
+  <p> 📮 How to reach me: yuanliu0120@gmail.com </p>
 
 </div>
-
----
-<section align="center">
+<section align="left">
   
  ![Yuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuanliuddd&show_icons=true&theme=great-gatsby)
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuanliuddd&layout=compact&theme=great-gatsby)](https://github.com/yuanliuddd/github-readme-stats)
 </section>
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>&nbsp;
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" height="30"/>&nbsp;
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="30" height="30"/>&nbsp;
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="30" height="30"/>&nbsp;
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="30" height="30"/>&nbsp;
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>&nbsp;
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="30" height="30"/>&nbsp;
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="30" height="30"/>&nbsp;       
-</div>
+My GitHub work is:
+
+- [Road trip planner API](https://github.com/poollooo/roadtrip-planner-api) : work with Node.js & Express Framework 
+- [Road trip planner Front](https://github.com/poollooo/roadtrip-planner-front) :mainly work with React.js 
+
+Currently I'm working on : 
+
+- [agora](https://github.com/sebastienng/agora-project) : A MERN Stack project too , my main part is the Front side with React and formik library 
+
+
+
