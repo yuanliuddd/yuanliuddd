@@ -20,14 +20,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuanliuddd&layout=compact&theme=great-gatsby)](https://github.com/yuanliuddd/github-readme-stats)
 </section>
 
-My GitHub work is:
-
-- [Road trip planner API](https://github.com/poollooo/roadtrip-planner-api) : work with Node.js & Express Framework 
-- [Road trip planner Front](https://github.com/poollooo/roadtrip-planner-front) :mainly work with React.js 
-
 Currently I'm working on : 
 
 - [agora](https://github.com/sebastienng/agora-project) : A MERN Stack project too , my main part is the Front side with React and formik library 
 
+My GitHub work is:
+
+- [Road trip planner API](https://github.com/poollooo/roadtrip-planner-api) : work with Node.js & Express Framework 
+- [Road trip planner Front](https://github.com/poollooo/roadtrip-planner-front) :mainly work with React.js 
 
 
