@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" width="150"/>
   <h1> Hey there , I'm Yuan ! 👋</h1>
 </div>
 
