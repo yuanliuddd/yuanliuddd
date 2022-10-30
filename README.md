@@ -23,6 +23,5 @@
 
 - [Road trip planner API](https://github.com/poollooo/roadtrip-planner-api) : work with Node.js & Express Framework 
 - [Road trip planner Front](https://github.com/poollooo/roadtrip-planner-front) :mainly work with React.js 
-- [agora](https://github.com/sebastienng/agora-project) 
 
 
