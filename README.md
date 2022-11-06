@@ -6,7 +6,6 @@
   
   <p> 🌱 I’m a Full Stack Developer based in Paris.</p> 
   <p> 🥰 Passionate about Web Tech skills and Technology Products</p> 
-  <p> 👾 Enjoys learning : currently I'm learning Next.js | And debugs for fun! </p>
   <p> 📮 How to reach me: yuanliu0120@gmail.com </p>
 
 </div>
@@ -21,7 +20,5 @@
 
 
 
-- [Road trip planner API](https://github.com/poollooo/roadtrip-planner-api) : work with Node.js & Express Framework 
-- [Road trip planner Front](https://github.com/poollooo/roadtrip-planner-front) :mainly work with React.js 
 
 
