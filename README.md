@@ -8,9 +8,10 @@
 </div>
 <section align="left">
   
- ![Yuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuanliuddd&show_icons=true&theme=great-gatsby)
+ 
 
-  
+  [comment]: <![Yuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuanliuddd&show_icons=true&theme=great-gatsby)> 
+
   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuanliuddd&layout=compact&theme=great-gatsby)](https://github.com/yuanliuddd/github-readme-stats)
